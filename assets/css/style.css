@@ -71,7 +71,7 @@
     .sub-title_xiaomi-ratchet-screwdriver-01-02 {font-size: 1rem; color: var(--title); line-height: 1.5rem; text-align: left; padding: 1rem 2rem 1rem 2rem;}
     .sub-title_xiaomi-ratchet-screwdriver-01-03 {font-size: 1rem; color: var(--title-white); line-height: 1.1rem; text-align: left; padding: 0rem 1rem 0rem 1rem;}
     .sub-title_xiaomi-ratchet-screwdriver-01-03-01 {font-size: 0.8rem; color: var(--title-white); line-height: 1.1rem; text-align: left; padding: 24rem 1rem 0rem 1rem; max-height: 26rem;}
-    .sub-title_xiaomi-ratchet-screwdriver-01-03-02 {font-size: 0.8rem; color: var(--sub-tittle-gray); line-height: 1.1rem; text-align: left; padding: 26rem 1rem 0rem 1rem; max-height: 30rem;}
+    .sub-title_xiaomi-ratchet-screwdriver-01-03-02 {font-size: 0.8rem; color: var(--sub-tittle-gray); line-height: 1.1rem; text-align: justify; padding: 26rem 1rem 0rem 1rem; max-height: 30rem;}
     .sub-title_xiaomi-ratchet-screwdriver-01-04 {font-size: 1rem; color: var(--title); line-height: 1.1rem; text-align: left; padding: 0rem 1rem 0rem 1rem;}
     .sub-title_xiaomi-ratchet-screwdriver-01-04-01 {font-size: 1rem; color: var(--title); line-height: 1.1rem; text-align: center; padding: 0.5rem 1rem 0.5rem 1rem;}
 
@@ -242,7 +242,7 @@
     }
 
     .bg_07 {
-        height: 50rem;
+        height: 40rem;
         background-image: url(../media/image_10.jpg);
         background-position: bottom;
         background-repeat: no-repeat;
